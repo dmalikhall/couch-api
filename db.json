@@ -1,0 +1,25 @@
+{
+    "couches": [
+        {
+            "id": 0,
+            "images": "./images/couch1.jpg",
+            "price": 367,
+            "name": "Bly Microfiber / Microsuede 5' Armless Loveseat",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi, ipsa ratione distinctio quo libero eaque ut nisi nobis consequatur neque quia obcaecati iure dolores pariatur maxime sunt voluptatem explicabo deserunt."
+        },
+        {
+            "id": 1,
+            "images": "./images/couch2.jpg",
+            "price": 297,
+            "name": "Anthropologie Willoughby Two-Cushion Sofa",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex, mollitia! Quae, corrupti officiis ducimus eius quaerat quidem incidunt, odio hic numquam repudiandae doloremque dolor voluptate blanditiis voluptatum."
+        },
+        {
+            "id": 2,
+            "images": "./images/couch3.jpg",
+            "price": 350,
+            "name": "West Elm Harmony Sofa",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum sunt, atque ut doloremque, tempora illo ab tempore praesentium amet repellat et totam corporis obcaecati rerum at dicta delectus."
+        }
+    ]
+}
